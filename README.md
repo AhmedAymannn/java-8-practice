@@ -9,6 +9,4 @@ Functional Programming: Implementation of Lambda expressions and Method Referenc
 
 Stream API: Mastering efficient data processing, filtering, and mapping.
 
-Optional Class: Writing null-safe code to improve application stability.
-
 Clean Code: Adhering to naming conventions and modular design as part of a professional junior-level portfolio.
